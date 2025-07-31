@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Uzair Tariq
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&pause=1000&width=600&lines=Dedicated+MERN+Stack+Developer.;I+will+be+a+Generative+AI+Engineer+in+the+future." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&pause=1000&width=600&lines=Dedicated+MERN+Stack+Developer.;One+Day...+I+will+be+a+Generative+AI+Engineer." alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development<br>👯 Interested in collaborating on challenging projects involving AI integration.<br>🌱 My next move is to dive into Generative AI.<br>💬 Ask me about Full Stack Development<br>📫 How to reach me uzairtariq102@gmail.com
